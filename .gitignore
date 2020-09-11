@@ -10,3 +10,15 @@ SimpleQmap/__pycache__/
 SimpleQmap/shared/
 samples/StandardMap*
 
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# cpp
+a.exe
+a.out
+
+# Build
+Build

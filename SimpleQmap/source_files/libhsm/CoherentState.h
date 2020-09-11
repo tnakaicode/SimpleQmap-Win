@@ -1,5 +1,6 @@
 #ifndef COHERENT_STATE
 #define COHERENT_STATE
+#define _USE_MATH_DEFINES
 
 #ifdef __cplusplus
 extern "C" {
